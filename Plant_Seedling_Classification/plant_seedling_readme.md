@@ -10,7 +10,7 @@ The agricultural sector stands poised for transformation. Manual interventions p
 
 ## Objective
 
-Collaborating with the esteemed Aarhus University Signal Processing group and the University of Southern Denmark, this project calls upon data scientists to engineer a robust Convolutional Neural Network (CNN) model. The mission is clear—to proficiently classify plant seedlings across 12 distinct categories based on a comprehensive dataset of images.
+A collaboration between the esteemed Aarhus University Signal Processing group and the University of Southern Denmark birthed the dataset. This project calls upon data scientists to engineer a robust Convolutional Neural Network (CNN) model. The mission is clear—to proficiently classify plant seedlings across 12 distinct categories based on a comprehensive dataset of images.
 
 ## Data Description
 
