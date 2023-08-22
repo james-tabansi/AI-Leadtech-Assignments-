@@ -1,5 +1,6 @@
-# Abstract
-**Project Abstract: ALL LIFE Bank Loan Targeting Project**
+# ALL LIFE Bank Loan Project
+## Abstract
+
 
 Unlocking the doors of financial inclusion, the ALL LIFE Bank Loan Project illuminates a visionary path in the world of lending. Embarking on a mission to empower individuals through seamless access to loans, this project metamorphosed into a beacon of innovation.
 
